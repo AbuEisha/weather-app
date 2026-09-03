@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL Here](https://github.com/AbuEisha/front-end-mentor-challenges/tree/weather-app)
+- [Solution URL Here](https://github.com/AbuEisha/weather-app)
 - [Live Site URL Here](https://weather-api-app.pages.dev/)
 
 ## My process
